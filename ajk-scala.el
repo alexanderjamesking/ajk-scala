@@ -1,3 +1,17 @@
+;;; ajk-scala.el --- Alex's Scala Mode
+
+;; Copyright (c) 2020 Alexander James King
+
+;; Homepage: https://github.com/alexanderjamesking/ajk-scala
+;; Keywords: languages
+;; Package-Version:  0.1
+;; Package-Requires: ((emacs "24.4"), (sbt-mode "0.2"))
+
+;;; Commentary:
+;;
+;;; Code:
+
+
 ;; see https://scalameta.org/metals/docs/editors/emacs.html
 
 (message "scala.el")
