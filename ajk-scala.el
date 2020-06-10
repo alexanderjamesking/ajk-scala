@@ -71,11 +71,5 @@
             (define-key map (kbd "C-c C-t C-f") 'run-tests-in-file)
             map))
 
-(message "ajk-scala-mode defined")
-
-(add-hook 'scala-mode-hook 'ajk-scala-mode)
-
-(message "ajk-scala-mode hook added to scala-mode-hook")
-
 (provide 'ajk-scala)
 ;;; ajk-scala.el ends here
